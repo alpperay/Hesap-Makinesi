@@ -1,0 +1,14 @@
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\obj\Debug\net8.0\HesapYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\obj\Debug\net8.0\HesapYonetim.AssemblyInfoInputs.cache
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\obj\Debug\net8.0\HesapYonetim.AssemblyInfo.cs
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\obj\Debug\net8.0\HesapYonetim.csproj.CoreCompileInputs.cache
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\bin\Debug\net8.0\HesapYonetim.exe
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\bin\Debug\net8.0\HesapYonetim.deps.json
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\bin\Debug\net8.0\HesapYonetim.runtimeconfig.json
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\bin\Debug\net8.0\HesapYonetim.dll
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\bin\Debug\net8.0\HesapYonetim.pdb
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\obj\Debug\net8.0\HesapYonetim.dll
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\obj\Debug\net8.0\refint\HesapYonetim.dll
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\obj\Debug\net8.0\HesapYonetim.pdb
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\obj\Debug\net8.0\HesapYonetim.genruntimeconfig.cache
+C:\Users\alp34\OneDrive\Masaüstü\C# - Deneme\HesapYonetim\obj\Debug\net8.0\ref\HesapYonetim.dll
