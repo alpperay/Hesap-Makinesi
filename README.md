@@ -36,7 +36,7 @@ Kullanıcı, menüden bir seçenek girdikten sonra iki sayı girmesi istenir. Ar
 ![scshoots 2](https://github.com/user-attachments/assets/5722462f-c35e-414d-93f2-fba5acbc6155)
 
 
-# Geliştiriciler İçin Notlar
+# Kullanım
 
 1) Geliştirme Ortamı: Visual Studio veya başka bir C# uyumlu IDE ile projeyi açabilirsiniz.
 2) .NET Sürümü: Bu proje, .NET 8.0 ile geliştirilmiştir. Çalıştırmak için .NET 8.0'ın yüklü olduğundan emin olun.
