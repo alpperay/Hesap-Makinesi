@@ -29,7 +29,7 @@ Kullanıcı, menüden bir seçenek girdikten sonra iki sayı girmesi istenir. Ar
 4) İşlem Sonucu: Seçilen işlem gerçekleştirilir ve sonuç ekrana yazdırılır.
 5) Devam Etme veya Çıkma: Sonuç gösterildikten sonra, kullanıcıya başka bir işlem yapma veya çıkma seçeneği sunulur.
 
-# Örnek Çıktı :
+# Örnek Çıktı
 
 ![scshoots 1](https://github.com/user-attachments/assets/ed655612-5e60-4a68-81ff-11782028b028)
 
