@@ -2,14 +2,14 @@
 
 Bu proje, C# dilinde yazılmış bir konsol uygulamasıdır. Kullanıcıların temel matematiksel işlemleri gerçekleştirebileceği bir hesap makinesi işlevselliği sunar. Proje, .NET 8.0 platformunda geliştirilmiştir ve temel olarak kullanıcı etkileşimini sağlayan bir switch-case yapısı kullanılarak inşa edilmiştir.
 
-# Özellikler :
+# Özellikler
 
 1) .NET 8.0: Uygulama, .NET 8.0 sürümü ile geliştirilmiştir.
 2) Switch-Case Yapısı: Kullanıcının seçimine göre farklı matematiksel işlemleri gerçekleştiren bir menü yapısı.
 3) Temel Matematiksel İşlemler: Toplama, çıkarma, çarpma, bölme gibi temel işlemleri destekler.
 4) Hata Yönetimi: Kullanıcı hatalı giriş yaptığında uygun hata mesajları ile yönlendirme yapılır.
 
-# Kullanıcı Arayüzü :
+# Kullanıcı Arayüzü
 
 Uygulama, kullanıcıya aşağıdaki matematiksel işlemleri gerçekleştirmek için bir menü sunar:
 
