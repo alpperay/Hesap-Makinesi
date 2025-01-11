@@ -4,6 +4,8 @@ HesapMakinesi hm = new HesapMakinesi();
 string secim;
 do
 {
+    Console.Clear();
+    Console.WriteLine("Seçim Yapınız!");
     Console.WriteLine("Toplama İşlemi İçin ... 1");
     Console.WriteLine("Çıkarma İşlemi İçin ... 2");
     Console.WriteLine("Çarpma İşlemi İçin ... 3");
