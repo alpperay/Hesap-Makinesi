@@ -31,7 +31,10 @@ Kullanıcı, menüden bir seçenek girdikten sonra iki sayı girmesi istenir. Ar
 
 # Örnek Çıktı :
 
-![scshoots](https://github.com/user-attachments/assets/b9d0b624-cc65-425f-9ee2-cb9f8911eeb8)
+![scshoots 1](https://github.com/user-attachments/assets/ed655612-5e60-4a68-81ff-11782028b028)
+
+![scshoots 2](https://github.com/user-attachments/assets/5722462f-c35e-414d-93f2-fba5acbc6155)
+
 
 # Geliştiriciler İçin Notlar
 
