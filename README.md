@@ -27,7 +27,7 @@ Kullanıcı, menüden bir seçenek girdikten sonra iki sayı girmesi istenir. Ar
 2) Seçim Yapma: Kullanıcı, menüdeki numaralardan birini seçerek yapmak istediği işlemi belirler.
 3) Sayılara Giriş: Seçilen işleme bağlı olarak iki sayıyı girmeniz istenir.
 4) İşlem Sonucu: Seçilen işlem gerçekleştirilir ve sonuç ekrana yazdırılır.
-5) Devam Etme veya Çıkma: Sonuç gösterildikten sonra, kullanıcıya başka bir işlem yapma veya çıkma seçeneği sunulur.
+5) Devam Etme veya Çıkma: Sonuç gösterildikten sonra, kullanıcıya başka bir işlem yapma seçeneği sunulur.
 
 # Örnek Çıktı
 
