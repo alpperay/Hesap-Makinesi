@@ -31,12 +31,12 @@ Kullanıcı, menüden bir seçenek girdikten sonra iki sayı girmesi istenir. Ar
 
 ## Kullanım
 
-1) .NET Sürümü: Bu proje, .NET 8.0 ile geliştirilmiştir. Çalıştırmak için .NET 8.0'ın yüklü olduğundan emin olun.
-2) Projeyi klonlayın:
+- .NET Sürümü: Bu proje, .NET 8.0 ile geliştirilmiştir. Çalıştırmak için .NET 8.0'ın yüklü olduğundan emin olun.
+- Projeyi klonlayın:
 ````bash
 git clone <repo-url>
 ````
-3) Projeyi çalıştırın:
+- Projeyi çalıştırın:
 ````bash
 dotnet run
 ````
